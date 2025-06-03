@@ -2,4 +2,4 @@ streamlit
 pandas
 matplotlib
 scikit-learn
-from sklearn.preprocessing import standardscaler
+from sklearn.preprocessing import StandardScaler
